@@ -1,2 +1,3 @@
 # hello-world
-learnin time
+
+Just trying to figure out version control in the most basic of ways!
